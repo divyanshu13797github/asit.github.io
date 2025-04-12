@@ -11,7 +11,7 @@ body{
             position: fixed;
             left: 1px; /* Added 1px margin from left edge */
             top: 50%;
-            transform: translateY(-50%) rotate(-90deg);
+            transform: translateY(50%) rotate(-90deg);
             transform-origin: left center;
             background-color:  rgb(0, 0, 61); /* Orange background */
             color: white;
