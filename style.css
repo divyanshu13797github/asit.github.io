@@ -1,8 +1,12 @@
 body{
-    font-family: 'Poppins', sans-serif;
-	font-weight: 400;
-	font-size:14px;
-	color:#888;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-size:14px;
+color:#888;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
 }
 
 
